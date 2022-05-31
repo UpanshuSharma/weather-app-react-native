@@ -1,0 +1,43 @@
+{
+    "base": "stations",
+    "clouds": {
+        "all": 5
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 28.58,
+        "lon": 77.33
+    },
+    "dt": 1646219960,
+    "id": 7279746,
+    "main": {
+        "feels_like": 299.7,
+        "humidity": 32,
+        "pressure": 1015,
+        "temp": 300.23,
+        "temp_max": 300.23,
+        "temp_min": 299.31
+    },
+    "name": "Noida",
+    "sys": {
+        "country": "IN",
+        "id": 9161,
+        "sunrise": 1646183716,
+        "sunset": 1646225452,
+        "type": 1
+    },
+    "timezone": 19800,
+    "visibility": 3000,
+    "weather": [
+        {
+            "description": "haze",
+            "icon": "50d",
+            "id": 721,
+            "main": "Haze"
+        }
+    ],
+    "wind": {
+        "deg": 150,
+        "speed": 2.06
+    }
+}
